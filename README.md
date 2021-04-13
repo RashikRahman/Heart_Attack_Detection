@@ -1,4 +1,4 @@
-# Heart_Attack_Detection_Using__ECG_DATA
+# Heart_Attack_Detection
 
 ## About dataset
 
